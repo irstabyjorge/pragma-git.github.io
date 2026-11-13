@@ -1,0 +1,172 @@
+{
+  "commit": "51dab9a07abff8596ea409813430669b6a8bfa54",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:01:27-08:00",
+      "sha": "51dab9a07abff8596ea409813430669b6a8bfa54",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2024-09-09T14:02:28+02:00",
+      "sha": "4b97043a9054dcd4a16dbf84d2ba7277898cd043",
+      "subject": "Update install instructions"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2022-01-15T19:16:02+01:00",
+      "sha": "0eaac7dd55d2aa7801208876dcc24b21054b075a",
+      "subject": "Fix header for Safari to work"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2022-01-15T18:44:39+01:00",
+      "sha": "e99b528b3392afc3bb9f2b8be177b43395c8ead1",
+      "subject": "Favicon in root level"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2022-01-15T16:51:22+01:00",
+      "sha": "f0e3cac808fa6cc2e66c1a5b879d6ec38a36865b",
+      "subject": "Add favicon"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2021-04-01T15:46:32+02:00",
+      "sha": "3c2823a877641d02cd23e6b724897fdce7a96e4c",
+      "subject": "test '.'"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2021-04-01T15:45:28+02:00",
+      "sha": "6cf20ec54379fa19208aad8cce58c490248b35bf",
+      "subject": "test"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "Jan Axelsson",
+      "authored_at_declared": "2021-04-01T13:46:39+02:00",
+      "sha": "28a45cd402dcea0e9ecc8ec77a953bb0f0884782",
+      "subject": "test update"
+    },
+    {
+      "author_email_sha256": "20882ca9f54a9d90244082d1ceec482b34e7cae648a46cf01a37e5f6a2a18940",
+      "author_name_declared": "pragma-git",
+      "authored_at_declared": "2021-04-01T10:05:09+02:00",
+      "sha": "74958abed7107e47002c0b5099cf45292a051d6b",
+      "subject": "Set theme jekyll-theme-midnight"
+    },
+    {
+      "author_email_sha256": "20882ca9f54a9d90244082d1ceec482b34e7cae648a46cf01a37e5f6a2a18940",
+      "author_name_declared": "pragma-git",
+      "authored_at_declared": "2021-04-01T10:04:38+02:00",
+      "sha": "658c24f5b2eb838b31df229fc4400bf10c55c9f9",
+      "subject": "Set theme jekyll-theme-hacker"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "JanAxelsson",
+      "authored_at_declared": "2021-02-06T19:09:38+01:00",
+      "sha": "9ed536167a7d698c3b1be7d0d1ee6fbd87ece9ea",
+      "subject": "Move position of screen shot to correct place"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "JanAxelsson",
+      "authored_at_declared": "2021-02-06T12:21:49+01:00",
+      "sha": "ae85f10fe58f10eb7148d386f8ad04de87a5a7e9",
+      "subject": "Copied context from pragma-git repo"
+    },
+    {
+      "author_email_sha256": "496d97573e2adbc4f0d4309c0750f9a2cb14333dd145a3b74aaccc8d15c454f5",
+      "author_name_declared": "JanAxelsson",
+      "authored_at_declared": "2021-02-06T12:15:33+01:00",
+      "sha": "ee631cd1d7b016a6e466195e8ca6821f69f4ed9c",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 9,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "ed907305e59b7f6bc7d86d9e09c6b53c294666a2",
+      "mode": "100644",
+      "path": ".gitignore",
+      "sha256": "c5923c759f5c74844247effa198541e193d7d938266327cae7b97c3a16cd411e"
+    },
+    {
+      "git_blob_oid": "253089dfd9e9babcbc73e5f09d77fa0fb2ebe14d",
+      "mode": "100644",
+      "path": "docs/Gemfile",
+      "sha256": "f304be569f8274875e3edfdefd41f70d33202e5b15ae7f60b462a987125f9e41"
+    },
+    {
+      "git_blob_oid": "61ef9f20140713ff8aa713b0334418376d896c40",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "33dcbb120bd146be225a62b6b764dc76f603d7bae4274ba840bddca679aa0001"
+    },
+    {
+      "git_blob_oid": "300e1b2a2a7c727799a6bc47042a65fbc5c3ae6a",
+      "mode": "100644",
+      "path": "docs/_config.yml",
+      "sha256": "5f919207f762832a86b7d70c2413d4b3e1c153541d996df4f751f0052bdfebec"
+    },
+    {
+      "git_blob_oid": "8d126fa8aa11ab19b95ccc61603d10a0f12e93e1",
+      "mode": "100644",
+      "path": "docs/_includes/head-custom.html",
+      "sha256": "2c39054d0f7960237f915e7f876f36e0f5a3cd43ca59e0ecc30301eec3290ae2"
+    },
+    {
+      "git_blob_oid": "30596278d40958594ebb4ce0b7b2b0db17a1de23",
+      "mode": "100644",
+      "path": "docs/favicon.ico",
+      "sha256": "77650b00cc8bd302d8fec2fdb905671dbaed31b290689f069c8761f9986c845d"
+    },
+    {
+      "git_blob_oid": "1e668fe1f534c8b0584cf78f7f161ab8e0301c88",
+      "mode": "100644",
+      "path": "docs/index.md",
+      "sha256": "76af777acbc57117114e45fed6847f5d6c85a4c97d14a7f891bff82deed6509d"
+    },
+    {
+      "git_blob_oid": "926a140c4e2e3770d4b2aaa226b093a9a8cc4294",
+      "mode": "100644",
+      "path": "jekyll_locally.txt",
+      "sha256": "6ccf76f389d25f6a82b75d6a6e6adc308479bead5bd9a1eb5c8a43dea9f37cf7"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:04:19.690139+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/main",
+  "ref_name": "main",
+  "repository": "irstabyjorge/pragma-git.github.io",
+  "tree": "be44c7ef0ff695c0a6d9696e756c3df742620a19",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43488222784"
+}
